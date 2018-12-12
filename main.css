@@ -1,6 +1,19 @@
 /* Styles for Product Page Customization */
 /* NOTE: Do not edit the Bootstrap CSS files. */
 
+nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+
 body {
     padding-top: 30px;
     padding-bottom: 20px;
@@ -34,7 +47,7 @@ header.masthead {
 
 /* footer */
 footer {
-    background-color: gray;
+    background-color: #333;
 }
 
 .footer-flex {
