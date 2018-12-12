@@ -2,7 +2,7 @@
 /* NOTE: Do not edit the Bootstrap CSS files. */
 
 body {
-    background-image: url(images/backgnd2.jpg);
+    background-image: url(images/background.1.jpg);
     padding-top: 30px;
     padding-bottom: 20px;
 }
@@ -27,7 +27,7 @@ header.masthead .intro-text {
 header.masthead {
     text-align: center;
     color: #fff;
-    background-image: url(images/backgrd.jpg);
+    
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
