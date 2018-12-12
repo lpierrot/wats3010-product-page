@@ -2,7 +2,7 @@
 /* NOTE: Do not edit the Bootstrap CSS files. */
 
 body {
-    background-image: url("images/backgnd2.jpg");
+    background-image: url(images/backgnd2.jpg);
     padding-top: 30px;
     padding-bottom: 20px;
 }
@@ -12,7 +12,11 @@ body {
     width: 100%;
 }
 
-/*jumbotron*/
+/*header*/
+header.masthead .intro-text {
+    padding-top: 300px;
+    padding-bottom: 200px;
+}
 
 .intro-lead-in {
     font-size: 40px;
@@ -33,7 +37,7 @@ header.masthead {
 
 /*Social media*/
 
-.social-links {
+.list-inline social-buttons {
     list-style-type: none;
     text-align: center;
 }
