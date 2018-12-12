@@ -2,14 +2,8 @@
 /* NOTE: Do not edit the Bootstrap CSS files. */
 
 body {
-    background-image: url(images/background.1.jpg);
     padding-top: 30px;
     padding-bottom: 20px;
-}
-
-.apistore {
-    margin: 0 auto;
-    width: 100%;
 }
 
 /*header*/
@@ -27,14 +21,21 @@ header.masthead .intro-text {
 header.masthead {
     text-align: center;
     color: #fff;
-    
+    background-image: url(images/background.bed.jpg);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
     background-size: cover;
 }
 
+/*Testimonials*/
+
+
+
 /* footer */
+footer {
+    background-color: gray;
+}
 
 .footer-flex {
     display: flex;
