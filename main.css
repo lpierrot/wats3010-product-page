@@ -1,6 +1,9 @@
 /* Styles for Product Page Customization */
 /* NOTE: Do not edit the Bootstrap CSS files. */
 
+
+/*navbar*/
+
 nav {
     list-style-type: none;
     margin: 0;
@@ -13,11 +16,19 @@ li {
     float: left;
 }
 
+/*body*/
 
 body {
     padding-top: 30px;
     padding-bottom: 20px;
 }
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     border: 1px #333;
+     padding: inherit;
+}
+
 
 /*header*/
 header.masthead .intro-text {
@@ -41,8 +52,8 @@ header.masthead {
     background-size: cover;
 }
 
-/*Testimonials*/
 
+/*Testimonials*/
 
 
 /* footer */
