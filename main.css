@@ -43,7 +43,7 @@ header.masthead .intro-text {
 header.masthead {
     text-align: center;
     color: #fff;
-    background-image: url(images/background.bed.jpg);
+    background-image: url(images/background/background.bed.jpg);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
