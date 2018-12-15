@@ -19,7 +19,8 @@ li {
 /*body*/
 
 body {
-    padding-top: 30px;
+    background-image: url(images/background/background.bed2.jpg);
+    padding-top: 15px;
     padding-bottom: 20px;
 }
 
@@ -43,7 +44,7 @@ header.masthead .intro-text {
 header.masthead {
     text-align: center;
     color: #fff;
-    background-image: url(images/background/background.bed.jpg);
+    background-image: url(images/background/background.light.jpg);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
